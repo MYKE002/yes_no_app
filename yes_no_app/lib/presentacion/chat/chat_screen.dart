@@ -3,8 +3,8 @@ import 'package:provider/provider.dart';
 import 'package:yes_no_app/dominio/message.dart';
 import 'package:yes_no_app/presentacion/chat/chat_provider.dart';
 import 'package:yes_no_app/presentacion/widgets/my_message_bubble.dart';
-import 'package:yes_no_app/presentacion/widgets/otros_message_buble.dart';
-import 'package:yes_no_app/presentacion/widgets/shared/message_field_box.dart';
+import 'package:yes_no_app/presentacion/widgets/otros_message_bubble.dart';
+import 'package:yes_no_app/presentacion/widgets/my_message_field_box.dart';
 
 class ChatScreen extends StatelessWidget {
   const ChatScreen({super.key});
